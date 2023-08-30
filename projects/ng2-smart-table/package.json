@@ -1,5 +1,5 @@
 {
-  "name": "ng2-smart-table",
+  "name": "@recep-karaca/ng2-smart-table",
   "version": "1.7.2",
   "description": "Angular Smart Table",
   "author": "akveo",
@@ -10,8 +10,8 @@
   },
   "peerDependencies": {
     "ng2-completer": "^9.0.1",
-    "@angular/common": "^10.0.0",
-    "@angular/core": "^10.0.0",
-    "@angular/forms": "^10.0.0"
+    "@angular/common": "^15.2.9",
+    "@angular/core": "^15.2.9",
+    "@angular/forms": "^15.2.9"
   }
 }
